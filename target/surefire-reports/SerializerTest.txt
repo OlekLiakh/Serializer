@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: SerializerTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.016 s <<< FAILURE! - in SerializerTest
-testSerializeDeserializeObject  Time elapsed: 0 s  <<< ERROR!
-java.lang.IllegalArgumentException: Can not set double field entity.User.growth to null value
-	at SerializerTest.testSerializeDeserializeObject(SerializerTest.java:21)
-
