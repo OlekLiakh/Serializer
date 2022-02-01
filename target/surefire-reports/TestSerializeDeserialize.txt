@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSerializeDeserialize
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.031 s <<< FAILURE! - in TestSerializeDeserialize
-testSerializeDeserializeObject  Time elapsed: 0.016 s  <<< ERROR!
-java.lang.IllegalArgumentException: Attempt to get java.lang.Integer field "entity.User.age" with illegal data type conversion to int
-	at TestSerializeDeserialize.testSerializeDeserializeObject(TestSerializeDeserialize.java:18)
-
